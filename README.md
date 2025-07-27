@@ -4,10 +4,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Problem+Solver;+)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ice-exe&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ice-exe)
-[![Years Badge](https://badges.pufler.dev/years/ice-exe?style=for-the-badge&color=00d9ff)](https://github.com/ice-exe)
-[![Repos Badge](https://badges.pufler.dev/repos/ice-exe?style=for-the-badge&color=00d9ff)](https://github.com/ice-exe)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ice-exe?style=for-the-badge&color=00d9ff)](https://github.com/ice-exe)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdvlrqhman&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdvlrqhman)
+[![Years Badge](https://badges.pufler.dev/years/abdvlrqhman?style=for-the-badge&color=00d9ff)](https://github.com/abdvlrqhman)
+[![Repos Badge](https://badges.pufler.dev/repos/abdvlrqhman?style=for-the-badge&color=00d9ff)](https://github.com/abdvlrqhman)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/abdvlrqhman?style=for-the-badge&color=00d9ff)](https://github.com/abdvlrqhman)
 
 </div>
 
@@ -93,14 +93,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ice-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-exe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdvlrqhman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdvlrqhman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ice-exe&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=abdvlrqhman&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
 
 </div>
 
@@ -110,7 +110,7 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ice-exe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdvlrqhman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
@@ -120,7 +120,7 @@ me.say_hi()
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-exe&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdvlrqhman&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -130,8 +130,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ice-exe&repo=your-top-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ice-exe/your-top-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ice-exe&repo=another-great-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ice-exe/another-great-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=your-top-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/abdvlrqhman/your-top-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=another-great-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/abdvlrqhman/another-great-repo)
 
 </div>
 
@@ -206,7 +206,7 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ice-exe&icon=2&color=0&pretty=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=abdvlrqhman&icon=2&color=0&pretty=true)
 
 </div>
 
