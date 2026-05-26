@@ -1,204 +1,308 @@
-# 🌟 Welcome to My Digital Universe
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Problem+Solver;+)
+<img src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg" alt="abdvlrqhman" width="100%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdvlrqhman&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdvlrqhman)
-[![Years Badge](https://badges.pufler.dev/years/abdvlrqhman?style=for-the-badge&color=00d9ff)](https://github.com/abdvlrqhman)
-[![Repos Badge](https://badges.pufler.dev/repos/abdvlrqhman?style=for-the-badge&color=00d9ff)](https://github.com/abdvlrqhman)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/abdvlrqhman?style=for-the-badge&color=00d9ff)](https://github.com/abdvlrqhman)
+<br/>
+
+<a href="https://github.com/abdvlrqhman">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=820&height=60&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Cloud+Builder;Founder+%26+CEO+%40+Spacie.net" alt="typing intro"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdvlrqhman&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/abdvlrqhman?style=for-the-badge&color=00FFFF&labelColor=000000&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Status-%E2%9A%A1%20Building-00FFFF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Open%20to-Collab-FFFFFF?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg">
+  <img alt="divider" src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg" style="display:none">
+</picture>
+
+## &gt;\_ About Me
 
 ```python
-class SoftwareDeveloper:
+class Founder:
     def __init__(self):
-        self.name = "abdvlrqhman"
-        self.role = "Software Developer"
-        self.language_spoken = ["Python", "JavaScript", "C++", "HTML", "CSS"]
-        self.specialties = ["Frontend Development", "Backend Architecture", "Cloud Solutions"]
-        self.current_focus = "Building scalable web applications"
-        self.fun_fact = "I turn coffee into code ☕➡️💻"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        self.name         = "Abdulrahman Mohamed"
+        self.handle       = "abdvlrqhman"
+        self.role         = "Founder & CEO @ Spacie.net"
+        self.stack        = ["Python", "JavaScript", "C++", "HTML5", "CSS3"]
+        self.focus        = ["Frontend Architecture", "Backend Systems", "Cloud"]
+        self.now_building = ["EyeceAI", "wideboard", "Lunex", "GamePingDNS"]
+        self.website      = "https://abdvlrqhman.com"
+        self.palette      = ["#00FFFF", "#000000", "#FFFFFF"]
 
-me = SoftwareDeveloper()
-me.say_hi()
+    def greet(self):
+        print("Thanks for stopping by — let's build something cold and clean.")
+
+Founder().greet()
 ```
 
+<details>
+<summary><b>&nbsp;Click to learn more &raquo;</b></summary>
+
+<br/>
+
+- **What I do:** Run [Spacie.net](https://abdvlrqhman.com) and build tools that sit at the intersection of gaming, networking, and AI.
+- **How I work:** Ship fast, iterate publicly, keep the stack lean.
+- **What I want next:** Collaborators on **EyeceAI** and **wideboard** — DM me on X if that's you.
+- **What I won't do:** Bloated dependencies, ugly UI, slow APIs.
+
+</details>
+
 ---
 
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20Showing%20Asia-Australia.png" width="24"/> Connect With Me
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdvlrqhman)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@abdvlrqhman)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/abdvlrqhman)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdvlrqhman)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cabdvlrqhman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ice@abdvlrqhman.com)
+<a href="https://abdvlrqhman.com"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000"/></a>
+<a href="mailto:ice@abdvlrqhman.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/></a>
+<a href="https://x.com/abdvlrqhman"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000"/></a>
+<a href="https://instagram.com/abdvlrqhman"><img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000"/></a>
+<a href="https://tiktok.com/@abdvlrqhman"><img src="https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=FFFFFF"/></a>
+<a href="https://twitch.tv/abdvlrqhman"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00FFFF&labelColor=000000"/></a>
+<a href="https://youtube.com/@cabdvlrqhman"><img src="https://img.shields.io/badge/YouTube-00FFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000"/></a>
 
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24"/> Tech Arsenal
 
 <div align="center">
 
-### 🎯 Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,aws,azure,vercel,netlify,cloudflare&perline=10&theme=dark" alt="primary stack"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,gimp,figma,nodejs,react,nextjs,tailwind&perline=10&theme=dark" alt="secondary stack"/>
+</a>
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+</div>
 
-### 🎨 Design & Creative Tools
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+<details>
+<summary><b>&nbsp;Languages & Core &raquo;</b></summary>
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<br/>
 
-### 🎮 Gaming Platforms
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white)
-![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF&labelColor=000000"/>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>&nbsp;Cloud & Deployment &raquo;</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge&logo=microsoftazure&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Netlify-FFFFFF?style=for-the-badge&logo=netlify&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cloudflare-FFFFFF?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=FFFFFF"/>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>&nbsp;Design & Creative &raquo;</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Photoshop-00FFFF?style=for-the-badge&logo=adobephotoshop&logoColor=000000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Lightroom-00FFFF?style=for-the-badge&logo=adobelightroom&logoColor=000000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Canva-00FFFF?style=for-the-badge&logo=canva&logoColor=000000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GIMP-00FFFF?style=for-the-badge&logo=gimp&logoColor=000000&labelColor=000000"/>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>&nbsp;Gaming &raquo;</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Xbox-000000?style=for-the-badge&logo=xbox&logoColor=00FFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=epicgames&logoColor=FFFFFF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Riot%20Games-000000?style=for-the-badge&logo=riotgames&logoColor=00FFFF&labelColor=000000"/>
+
+</div>
+
+</details>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="24"/> GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdvlrqhman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdvlrqhman&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=abdvlrqhman&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdvlrqhman&theme=github_dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="24"/> Contribution Snake
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdvlrqhman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdvlrqhman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=abdvlrqhman&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/output/snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/output/snake.svg"/>
+</picture>
 
 </div>
 
 ---
 
-## 🏆 Achievement Gallery
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="24"/> Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdvlrqhman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=abdvlrqhman&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24"/> Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdvlrqhman&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdvlrqhman&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="24"/> Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=your-top-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/abdvlrqhman/your-top-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=another-great-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/abdvlrqhman/another-great-repo)
+<a href="https://github.com/abdvlrqhman/GamePingDNS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=GamePingDNS&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+<a href="https://github.com/abdvlrqhman/LuniTack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=LuniTack&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+
+<a href="https://github.com/abdvlrqhman/Lunex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=Lunex&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+<a href="https://github.com/abdvlrqhman/Spaller">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=Spaller&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+
+<a href="https://github.com/abdvlrqhman/EyeceAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=EyeceAI&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+<a href="https://github.com/abdvlrqhman/wideboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=wideboard&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 Weekly Development Breakdown
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="24"/> Fun Facts
 
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░   48.2%
-JavaScript   8 hrs 15 mins   ████████░░░░░    31.8%
-HTML/CSS     3 hrs 45 mins   ███░░░░░░░░░░    14.5%
-C++          1 hr 30 mins    █░░░░░░░░░░░░     5.5%
-```
-<!--END_SECTION:waka-->
+<details>
+<summary><b>&nbsp;Open the box &raquo;</b></summary>
 
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Currently Jamming To
-
-<div align="center">
-
-[![Spotify](https://novatorem-seven-dun.vercel.app/api/spotify)](https://open.spotify.com/user/3143yjsxdk4knjvmpmroxdw5jqyq)
-
-</div>
-
----
-
-## 🌟 Fun Facts
-
-<div align="center">
+<br/>
 
 ```javascript
-const funFacts = {
-    coffeeConsumed: "∞ cups per day ☕",
-    favoriteLanguage: "Python 🐍",
-    hobbies: ["Gaming 🎮", "Photography 📸", "Content Creation 🎥"],
-    currentGoal: "Building the next big thing 🚀",
-    superpower: "Debugging at 3 AM 🦸‍♂️"
+const me = {
+  coffee:     "∞ cups per day",
+  weapon:     "Python",
+  hobbies:    ["Gaming", "Photography", "Content Creation"],
+  goal:       "Building the next big thing at Spacie.net",
+  superpower: "Debugging at 3 AM",
+  palette:    ["aqua", "black", "white"],
 };
-
-console.log("Welcome to my world of endless possibilities! 🌟");
 ```
 
-</div>
+</details>
+
+<details>
+<summary><b>&nbsp;What I'm currently building &raquo;</b></summary>
+
+<br/>
+
+| Project | What it is | Status |
+|---|---|---|
+| **EyeceAI** | AI chat platform powered by Spacie.net | shipping |
+| **wideboard** | AI-powered productivity dashboard | building |
+| **Lunex** | Gaming network optimizer for voice chat | iterating |
+| **GamePingDNS** | Finds the fastest DNS for gaming | maintained |
+| **Spaller** | Windows software package installer | maintained |
+| **LuniTack** | DDoS simulation tool | research |
+
+</details>
+
+<details>
+<summary><b>&nbsp;Random tech I love &raquo;</b></summary>
+
+<br/>
+
+> Anything that's **fast**, **minimal**, and **looks like a terminal**. Aqua-on-black is the only correct aesthetic. Fight me.
+
+</details>
 
 ---
 
-## 💰 Support My Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="24"/> Quote of the Visit
 
 <div align="center">
 
-If you find my projects helpful, consider buying me a coffee! ☕
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdvlrqhman)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abdvlrqhman)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abdvlrqhman)
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="24"/> Support My Work
+
+<div align="center">
+
+<a href="https://paypal.me/abdvlrqhman"><img src="https://img.shields.io/badge/PayPal-00FFFF?style=for-the-badge&logo=paypal&logoColor=000000&labelColor=000000"/></a>
+<a href="https://ko-fi.com/abdvlrqhman"><img src="https://img.shields.io/badge/Ko--fi-FFFFFF?style=for-the-badge&logo=kofi&logoColor=000000&labelColor=FFFFFF"/></a>
+<a href="https://buymeacoffee.com/abdvlrqhman"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=00FFFF&labelColor=000000"/></a>
 
 </div>
 
@@ -206,20 +310,10 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=abdvlrqhman&icon=2&color=0&pretty=true)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=600&color=00FFFF&center=true&vCenter=true&width=820&height=40&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%94+Cory+House;Thanks+for+visiting+%E2%80%94+let's+build+something+cold+and+clean."/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg" alt="footer" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
----
