@@ -2,10 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg" alt="abdvlrqhman" width="100%"/>
 
-<br/>
-
 <a href="https://github.com/abdvlrqhman">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=820&height=60&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Cloud+Builder;Founder+%26+CEO+%40+Spacie.net" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=820&height=50&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Cloud+Builder;Founder+%26+CEO+%40+Spacie.net" alt="typing intro"/>
 </a>
 
 <br/>
@@ -19,12 +17,12 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg">
-  <img alt="divider" src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg" style="display:none">
-</picture>
+> [!NOTE]
+> **Currently** — shipping **EyeceAI**, iterating on **wideboard**, maintaining **Lunex** & **GamePingDNS**.
 
-## &gt;\_ About Me
+<br/>
+
+## ❯ 01 · ABOUT
 
 ```python
 class Founder:
@@ -45,36 +43,20 @@ Founder().greet()
 ```
 
 <details>
-<summary><b>&nbsp;Click to learn more &raquo;</b></summary>
+<summary>&nbsp;<b>More about me</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
-- **What I do:** Run [Spacie.net](https://abdvlrqhman.com) and build tools that sit at the intersection of gaming, networking, and AI.
-- **How I work:** Ship fast, iterate publicly, keep the stack lean.
-- **What I want next:** Collaborators on **EyeceAI** and **wideboard** — DM me on X if that's you.
-- **What I won't do:** Bloated dependencies, ugly UI, slow APIs.
+- **What I do** — Run [Spacie.net](https://abdvlrqhman.com); build tools at the intersection of gaming, networking, and AI.
+- **How I work** — Ship fast, iterate publicly, keep the stack lean.
+- **What I want next** — Collaborators on **EyeceAI** and **wideboard**. DM me on X.
+- **What I won't do** — Bloated dependencies, ugly UI, slow APIs.
 
 </details>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20Showing%20Asia-Australia.png" width="24"/> Connect With Me
-
-<div align="center">
-
-<a href="https://abdvlrqhman.com"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000"/></a>
-<a href="mailto:ice@abdvlrqhman.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/></a>
-<a href="https://x.com/abdvlrqhman"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000"/></a>
-<a href="https://instagram.com/abdvlrqhman"><img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000"/></a>
-<a href="https://tiktok.com/@abdvlrqhman"><img src="https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=FFFFFF"/></a>
-<a href="https://twitch.tv/abdvlrqhman"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00FFFF&labelColor=000000"/></a>
-<a href="https://youtube.com/@cabdvlrqhman"><img src="https://img.shields.io/badge/YouTube-00FFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000"/></a>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24"/> Tech Arsenal
+## ❯ 02 · TECH STACK
 
 <div align="center">
 
@@ -88,8 +70,10 @@ Founder().greet()
 
 </div>
 
+<br/>
+
 <details>
-<summary><b>&nbsp;Languages & Core &raquo;</b></summary>
+<summary>&nbsp;<b>Languages & Core</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
@@ -106,7 +90,7 @@ Founder().greet()
 </details>
 
 <details>
-<summary><b>&nbsp;Cloud & Deployment &raquo;</b></summary>
+<summary>&nbsp;<b>Cloud & Deployment</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
@@ -124,7 +108,7 @@ Founder().greet()
 </details>
 
 <details>
-<summary><b>&nbsp;Design & Creative &raquo;</b></summary>
+<summary>&nbsp;<b>Design & Creative</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
@@ -140,7 +124,7 @@ Founder().greet()
 </details>
 
 <details>
-<summary><b>&nbsp;Gaming &raquo;</b></summary>
+<summary>&nbsp;<b>Gaming</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
@@ -155,16 +139,28 @@ Founder().greet()
 
 </details>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="24"/> GitHub Analytics
+## ❯ 03 · CONNECT
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdvlrqhman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdvlrqhman&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF"/>
+<a href="https://abdvlrqhman.com"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000"/></a>
+<a href="mailto:ice@abdvlrqhman.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/></a>
+<a href="https://x.com/abdvlrqhman"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000"/></a>
+<a href="https://instagram.com/abdvlrqhman"><img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000"/></a>
+<br/>
+<a href="https://tiktok.com/@abdvlrqhman"><img src="https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=FFFFFF"/></a>
+<a href="https://twitch.tv/abdvlrqhman"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00FFFF&labelColor=000000"/></a>
+<a href="https://youtube.com/@cabdvlrqhman"><img src="https://img.shields.io/badge/YouTube-00FFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000"/></a>
+
+</div>
 
 <br/>
+
+## ❯ 04 · ANALYTICS
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=abdvlrqhman&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
 
@@ -174,9 +170,9 @@ Founder().greet()
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="24"/> Contribution Snake
+## ❯ 05 · CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -188,19 +184,9 @@ Founder().greet()
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="24"/> Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdvlrqhman&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24"/> Contribution Activity
+## ❯ 06 · ACTIVITY
 
 <div align="center">
 
@@ -208,41 +194,69 @@ Founder().greet()
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="24"/> Featured Projects
+## ❯ 07 · ACHIEVEMENTS
 
 <div align="center">
 
-<a href="https://github.com/abdvlrqhman/GamePingDNS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=GamePingDNS&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-<a href="https://github.com/abdvlrqhman/LuniTack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=LuniTack&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-
-<a href="https://github.com/abdvlrqhman/Lunex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=Lunex&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-<a href="https://github.com/abdvlrqhman/Spaller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=Spaller&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-
-<a href="https://github.com/abdvlrqhman/EyeceAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=EyeceAI&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-<a href="https://github.com/abdvlrqhman/wideboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=wideboard&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=abdvlrqhman&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="24"/> Fun Facts
+## ❯ 08 · FEATURED WORK
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/abdvlrqhman/GamePingDNS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=GamePingDNS&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/abdvlrqhman/LuniTack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=LuniTack&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/abdvlrqhman/Lunex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=Lunex&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/abdvlrqhman/Spaller">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=Spaller&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/abdvlrqhman/EyeceAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=EyeceAI&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/abdvlrqhman/wideboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdvlrqhman&repo=wideboard&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## ❯ 09 · BEHIND THE SCENES
 
 <details>
-<summary><b>&nbsp;Open the box &raquo;</b></summary>
+<summary>&nbsp;<b>Open the box</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
@@ -260,7 +274,7 @@ const me = {
 </details>
 
 <details>
-<summary><b>&nbsp;What I'm currently building &raquo;</b></summary>
+<summary>&nbsp;<b>What I'm currently building</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
@@ -276,27 +290,18 @@ const me = {
 </details>
 
 <details>
-<summary><b>&nbsp;Random tech I love &raquo;</b></summary>
+<summary>&nbsp;<b>The aesthetic, for the record</b>&nbsp;<code>›</code></summary>
 
 <br/>
 
-> Anything that's **fast**, **minimal**, and **looks like a terminal**. Aqua-on-black is the only correct aesthetic. Fight me.
+> Anything that's **fast**, **minimal**, and **looks like a terminal**.
+> Aqua-on-black is the only correct aesthetic. Fight me.
 
 </details>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="24"/> Quote of the Visit
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="24"/> Support My Work
+## ❯ 10 · SUPPORT
 
 <div align="center">
 
@@ -306,14 +311,20 @@ const me = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=600&color=00FFFF&center=true&vCenter=true&width=820&height=40&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%94+Cory+House;Thanks+for+visiting+%E2%80%94+let's+build+something+cold+and+clean."/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+
+</div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/header.svg" alt="footer" width="100%"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abdvlrqhman/abdvlrqhman/main/divider.svg" alt="end of transmission" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=600&color=00FFFF&center=true&vCenter=true&width=820&height=30&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%94+Cory+House;Thanks+for+visiting+%E2%80%94+let's+build+something+cold+and+clean."/>
 
 </div>
